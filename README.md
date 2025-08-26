@@ -2,19 +2,19 @@
 assigment
 # Predictive Maintenance Analysis
 
-## 📋 Project Overview
+## Project Overview
 This project implements machine learning models to predict equipment failure days based on sensor data from manufacturing equipment.
 
-## 🎯 Problem Statement
+## Problem Statement
 Predict equipment failure days using sensor data (Temperature, Vibration, Pressure, Runtime) to enable proactive maintenance scheduling.
 
-## 📊 Dataset
+##Dataset
 - **File**: `Question1.csv`
 - **Features**: Temperature (°C), Vibration (mm/s), Pressure (psi), Runtime (hours)
 - **Target**: Days to Failure
 - **Samples**: 200 equipment records
 
-## 🚀 Implementation
+##Implementation
 
 ### Models Used:
 1. **Random Forest Regressor** (Primary model)
@@ -26,7 +26,7 @@ Predict equipment failure days using sensor data (Temperature, Vibration, Pressu
 - R-squared (R²) Score
 - 5-Fold Cross-Validation
 
-## 📈 Results
+##Results
 
 ### Performance Summary:
 - **Random Forest RMSE**: 155.78
@@ -40,7 +40,7 @@ Predict equipment failure days using sensor data (Temperature, Vibration, Pressu
 3. Runtime and Temperature are the most important features
 4. Data limitations identified as primary constraint
 
-## 🛠️ Installation
+## 🛠Installation
 
 ```bash
 # Clone repository
