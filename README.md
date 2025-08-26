@@ -28,19 +28,19 @@ Predict equipment failure days using sensor data (Temperature, Vibration, Pressu
 
 ##Results
 
-### Performance Summary:
+###Performance Summary:
 - **Random Forest RMSE**: 155.78
 - **Linear Regression RMSE**: 151.46  
 - **Hybrid Approach RMSE**: 157.86
 - **Cross-Validation RMSE**: 133.77 ± 15.32
 
-### Key Findings:
+###Key Findings:
 1. Sensor data shows weak correlation with failure timing
 2. Ensemble methods didn't significantly outperform linear regression
 3. Runtime and Temperature are the most important features
 4. Data limitations identified as primary constraint
 
-## 🛠Installation
+##Installation
 
 ```bash
 # Clone repository
