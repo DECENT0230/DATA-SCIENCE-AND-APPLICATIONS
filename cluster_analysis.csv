@@ -1,0 +1,7 @@
+,Temperature,Temperature,Vibration,Vibration,Pressure,Pressure,Runtime,Runtime,Days to Failure,Days to Failure,Days to Failure
+,mean,std,mean,std,mean,std,mean,std,mean,std,count
+Cluster,,,,,,,,,,,
+0,74.52,10.09,5.75,0.77,86.22,12.67,702.82,134.39,666.51,126.8,62
+1,80.65,7.31,4.86,0.61,109.24,16.73,453.2,173.98,611.69,145.44,41
+2,64.25,9.14,6.24,0.57,100.7,17.52,335.46,114.92,692.79,126.22,48
+3,58.39,5.39,5.05,0.8,114.08,12.55,626.2,185.43,657.43,135.33,49
